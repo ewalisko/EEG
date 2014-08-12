@@ -12,3 +12,11 @@ Data Sets:
   2. Affective(electrodermal, brain activity, etc)
     1. potential for a human user input section.
   3. Context (picture, location, human activity, etc)
+
+ Architecuture Tools:
+   1. Hardware Tools
+     1. Emotive EEG
+     2. SmartPhone
+     3. Camera
+       1. Pictures
+       2. Timestamps
