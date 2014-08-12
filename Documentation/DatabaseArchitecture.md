@@ -20,5 +20,3 @@ Data Sets:
      3. Camera
        1. Pictures
        2. Timestamps
-	   
-	   Hello!
